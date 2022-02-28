@@ -25,8 +25,8 @@ If you have any more info, don't be afraid to add!
 
 - Images of [our TV](https://drive.google.com/drive/folders/1pmucJz_E2s95HYRwpUuAKW5byRP6rvud?usp=sharing) (Google Drive folder)  
 
-Other TVs
-_________
+### Other TVs:
+
 - Back panel:   
 <img src="images/4002A_back.jpeg" alt="drawing" width="350"/>
 - Complete interior:  
