@@ -5,12 +5,25 @@ If you have any more info, don't be afraid to add!
 
 
 
-_________  Links  _____________
+___________  LINKS  __________________
 Radio-forum page of someone that restored it (still active at moment of writing this):
           https://radio-forum.cz/domains/radio-forum.cz/viewtopic.php?f=5&t=2680
 Web page of the Virtual Museum of historical radio engineering about the Tesla 4002A:
           http://www.oldradio.cz/ts4002.htm
 
+
+___________  VIDEOS  _________________
+Tesla Rádio plylist on a full repair:
+        1- Chassis disassembly - https://youtu.be/HPPeF0AOeFc
+        2- Cleaning and parts -- https://youtu.be/z7r_VDadZVk
+        3- Radio repair -------- https://youtu.be/8mm_Bx_WPbE
+        4- Audio amplifier ----- https://youtu.be/SjI0ftzy1p8
+        5- Video amplifier ----- https://youtu.be/JNCoHwkTZT8
+        6- Screen module ------- https://youtu.be/2wmb6PL6X1k
+        7- Radio test ---------- https://youtu.be/lCmjv1jdO2Q
+        8- TV test ------------- https://youtu.be/4sy0-bGlr64
+        9- New screen ---------- https://youtu.be/CA-zlBT4qpI
+        10- Full TV test ------- https://youtu.be/xTgOFabGAY8
 
 ___________  IMAGES  _________________
 Images of our TV:
