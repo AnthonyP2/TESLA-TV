@@ -1,6 +1,11 @@
 # TESLA-TV
-The journey of repairing an old czechoslovak TV/radio/amp, the Tesla 4002A.
+The journey of repairing an old czechoslovak TV/radio righ from the 50s, the Tesla 4002A.
+If you have any more info, don't be afraid to add!
 
+
+
+
+_________  Links  _____________
 Radio-forum page of someone that restored it (still active at moment of writing this):
           https://radio-forum.cz/domains/radio-forum.cz/viewtopic.php?f=5&t=2680
 Web page of the Virtual Museum of historical radio engineering about the Tesla 4002A:
