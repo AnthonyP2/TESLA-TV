@@ -3,8 +3,11 @@
 2. Unscrew and remove the "green eye" (image below):  
 <img src="images/4002A_gr_eye.jpeg" alt="drawing" width="350"/>    
 3. Desolder speaker wires  
+
 4. Remove the under-side panel  
+
 5. Remove the four screws that hold the undercarriage (image below)  
+  
 
 <img src="images/4002A_under_screws.jpeg" alt="drawing" width="350"/>  
 
