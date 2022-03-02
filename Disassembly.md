@@ -5,9 +5,12 @@
 3. Desolder speaker wires  
 4. Remove the under-side panel  
 5. Remove the four screwsthat hold the undercarriage (image below)    
-<img src="images/4002A_under_screws.jpeg" alt="drawing" width="350"/>
+<img src="images/4002A_under_screws.jpeg" alt="drawing" width="350"/>  
+
 6. Slide out the whole under-carriage  
+
 7. Congrats, you're done!  
+  
   
 
 
