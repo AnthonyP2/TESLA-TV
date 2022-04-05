@@ -14,4 +14,4 @@
 6. Slide out the whole under-carriage  
 7. Congrats, you're done!  
 
-*P.S: Some models might have third party accessories installed that we don`t, your disassembly might not be as stream-lined as ours.*
+*P.S: Some models might have third party accessories installed that we don't, your disassembly might not be as stream-lined as ours.*
